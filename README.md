@@ -153,4 +153,4 @@ In this lesson we learned how to create and start a Vue app. VueJS utilizes a te
 
 - [Vue Docs](https://vuejs.org/)
 - [Vue CLI Docs](https://cli.vuejs.org/)
-- [Learn Vue](https://vuejs.org/v2/guide/)
+- [Learn Vue](https://vuejs.org/guide/introduction.html)
